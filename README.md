@@ -86,6 +86,6 @@ plt.bar(test_stream,occurrences)
 
 
     
-![](output_7_1.png)
+![Output_BarGraph](output_7_1.png)
     
 
