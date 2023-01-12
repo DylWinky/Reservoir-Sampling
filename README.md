@@ -86,6 +86,6 @@ plt.bar(test_stream,occurrences)
 
 
     
-![png](https://raw.githubusercontent.com/DylWinky/Test/main/output_7_1.png?token=GHSAT0AAAAAAB5NCTUK4H2L5LBDHHY42GVKY6AGNOQ)
+![png](output_7_1.png)
     
 
