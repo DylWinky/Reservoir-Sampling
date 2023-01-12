@@ -88,6 +88,6 @@ plt.bar(test_stream,occurrences)
 
 
     
-![png](output_7_1.png)
+![png]()https://github.com/DylWinky/Test/blob/main/output_7_1.png)
     
 
