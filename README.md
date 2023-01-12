@@ -32,7 +32,7 @@ $p(\alpha + 1) = p(\alpha)$
   
 Therefore, $p(\alpha + 1)$ holds by the induction hypothesis. Since the base case $p(1)$ also holds, we have proved by induction that $p(\alpha) = \frac{1}{n}$ for all natural numbers $n$.  
   
-Since $p(\alpha) = \frac{1}{n}$ covers all items before the last item, and the last item trivially has probability $\frac{1}{n}$, we have proven that all items on the conveyer belt have equal chance ($\frac{1}{n}$) of being kept.
+Since $p(\alpha) = \frac{1}{n}$ covers all items before the last item, and the last item trivially has probability $\frac{1}{n}$, we have proven that all items on the conveyer belt have equal chance $\frac{1}{n}$ of being kept.
 
 ## The Code
 
